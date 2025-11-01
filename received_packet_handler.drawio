@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="27.0.5">
   <diagram name="Trang-1" id="WgzGxrDRMuCbr__ky7i9">
-    <mxGraphModel>
+    <mxGraphModel dx="1047" dy="365" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oaZtLsrWKsyfglWpji54-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oaZtLsrWKsyfglWpji54-1" target="oaZtLsrWKsyfglWpji54-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oaZtLsrWKsyfglWpji54-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oaZtLsrWKsyfglWpji54-1" target="oaZtLsrWKsyfglWpji54-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oaZtLsrWKsyfglWpji54-1" value="Check rreq_id?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29" y="94" width="104" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="oaZtLsrWKsyfglWpji54-2" value="Check rreq_id?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29" y="231" width="104" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="oaZtLsrWKsyfglWpji54-3" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-176" y="108.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oaZtLsrWKsyfglWpji54-5" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-38" y="117" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oaZtLsrWKsyfglWpji54-8" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="77" y="202" width="36" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oaZtLsrWKsyfglWpji54-10" value="Add rreq_id&lt;br&gt;Update&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="21" y="364" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
